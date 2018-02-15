@@ -1,5 +1,5 @@
 public class isikuAndmed {
-    public class static void main(String[] args) {
+    public static void main(String[] args) {
         Isik i = new Isik("Aadu", 1.99);
         Isik j = new Isik("Tormi", 12.99);
         System.out.println("Isiku nimi: " + i.nimi);
