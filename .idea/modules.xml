@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ICD0019.iml" filepath="$PROJECT_DIR$/ICD0019.iml" />
       <module fileurl="file://$PROJECT_DIR$/contructors/contructors.iml" filepath="$PROJECT_DIR$/contructors/contructors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/subclasses/subclasses.iml" filepath="$PROJECT_DIR$/subclasses/subclasses.iml" />
     </modules>
   </component>
 </project>
