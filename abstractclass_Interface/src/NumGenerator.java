@@ -4,7 +4,7 @@ import java.util.Random;
 public class NumGenerator {
     public static void main(String[] args) {
         Random rnd = new Random();
-        int arv = rnd.nextInt(5);
+        int arv = rnd.nextInt(5)+1;
         int[] list = new int[arv];
         for (int i = 0; i < arv; i++) {
             list[i] = rnd.nextInt(100);
