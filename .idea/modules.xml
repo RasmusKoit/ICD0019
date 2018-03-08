@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/ICD0019.iml" filepath="$PROJECT_DIR$/ICD0019.iml" />
       <module fileurl="file://$PROJECT_DIR$/abstractclass_Interface/abstractclass_Interface.iml" filepath="$PROJECT_DIR$/abstractclass_Interface/abstractclass_Interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/contructors/contructors.iml" filepath="$PROJECT_DIR$/contructors/contructors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fileEdits/fileEdits.iml" filepath="$PROJECT_DIR$/fileEdits/fileEdits.iml" />
       <module fileurl="file://$PROJECT_DIR$/subclasses/subclasses.iml" filepath="$PROJECT_DIR$/subclasses/subclasses.iml" />
     </modules>
   </component>
