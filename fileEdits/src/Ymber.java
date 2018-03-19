@@ -1,3 +1,4 @@
+import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
@@ -23,9 +24,11 @@ public class Ymber {
 
         try {
             FileWriter fw = new FileWriter(failinimi);
+            FileReader fr = new FileReader(failinimi);
             fw.write(sona.replace(millest, milleks));
             fw.flush();
             fw.close();
+            String read = fr.toString();
         } catch (IOException e) {
             System.out.println("ei saanud");
             e.printStackTrace();
